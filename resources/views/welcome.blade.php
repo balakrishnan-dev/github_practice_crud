@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>age : 23</h1>
-    <h1>email : balakrishnan0tech@gmail.com</h1>
+    <h1>name : balakrishnan</h1>
 </body>
 </html>
